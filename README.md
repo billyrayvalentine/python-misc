@@ -4,3 +4,7 @@ Some python bits and pieces
 
 ```Usage: yamlparser.py <filename>```
 
+```vdpcalc.py``` simple tool to calculate VDP addresses for the Sega megadrive
+
+```Usage: vdpcalc.py <startaddress (hex)> <offset (base10)>```
+
