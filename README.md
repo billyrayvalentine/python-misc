@@ -8,3 +8,6 @@ Some python bits and pieces
 
 ```Usage: vdpcalc.py <startaddress (hex)> <offset (base10)>```
 
+```text_wrap.py and chunk_file``` are tools for creating slides of text for the
+slidedeck project
+
